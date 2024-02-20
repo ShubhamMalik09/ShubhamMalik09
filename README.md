@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="banner.gif">
 <h1 align="center">Hi 👋, I'm Shubham Malik</h1>
 <h3 align="center">Currently a 2nd year B.tech Student</h3>
 
