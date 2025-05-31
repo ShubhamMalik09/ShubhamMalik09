@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 -->
 <img src="banner.gif">
 <h1 align="center">Hi 👋, I'm Shubham Malik</h1>
-<h3 align="center">Currently a 3rd year B.tech Student</h3>
+<h3 align="center">Backend Intern @Wokelo.ai | FullStack Intern @Jotish | Ex - BharatTech | UIET,MDU - 2026</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammalik09&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammalik09" /> </p>
 
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I’m interested in **fullstack development**
+- 🔭 I’m interested in **Fullstack Development**
 
 - 👋 Hi, I'm [@ShubhamMalik09](https://github.com/shubhammalik09)
   
-- 🌱 I’m currently learning **fullstack Web Development using MERN stack**
+- 🌱 I’m currently working as **Backend Intern @Wokelo.aI, FullStack Intern @Jotish**
 
 - 📫 How to reach me
 -  **shubhammalik.sm05@gmail.com**
